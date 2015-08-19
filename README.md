@@ -8,8 +8,8 @@ Sample Scroll View Controller with Auto Layout using SnapKit - https://github.co
 
 Getting scroll view to work properly with iOS's auto layout is tricky. This repo serves as a sample of common use cases for scroll view.
 
-* Scroll view with UIImageView
-* Scroll view with UIView
+* [Scroll view with UIImageView](https://github.com/hemantasapkota/SampleScrollViewControllerAutoLayout/blob/master/SampleScrollViewController/SampleScrollViewController/ImageScrollViewController.swift)
+* [Scroll view with UIView](https://github.com/hemantasapkota/SampleScrollViewControllerAutoLayout/blob/master/SampleScrollViewController/SampleScrollViewController/ScrollingUIView.swift)
 
 ## How to build ###
 
